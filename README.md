@@ -1,9 +1,9 @@
 ### Hey there, I'm [Ahmed Samir](https://github.com/ahmedsamir9)! 👋
 
 ## A passionate Egyptian junior software engineer that loves contributing and creating open source projects.
-- 🎓  2021 graduate from Information Systems department at Ain Shams University.
+- 🎓  2021 graduate from Faculty of Computer and Information Science (Information Systems department) , Ain Shams University.
 - 👀  Looking for software engineer job.
-- 📚  Learning more about Android.
+- 📚  Learning more about Backend(NODE JS , .NET),Databases,android.
 - 📌  Lives in Giza, Egypt.
 
 ### Connect with me:
