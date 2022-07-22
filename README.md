@@ -19,11 +19,10 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
-
+- 💼 &nbsp; Working as software engineer [@Fawry](https://fawry.com/)..
 - 🔭 &nbsp; I’m currently learning Backend (.NET) & Frontend (Angular)
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I graduated from ASU in Egypt Also I'm ITI gradute (9 month profiessional diploma [System Development / Software Architecture])
-- 💼 &nbsp; Backend developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in Backend & Clean Coding.
 - ✍️ &nbsp; Watching Anime and Movies as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
@@ -31,17 +30,12 @@
 &nbsp;
 
 
-
-**Languages and Tools:**
-
-  <br />
-  <br />
+  <br />  
+<h3>Languages and Tools:</h3>
 
   <code><img width="8%"  src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
   <code><img width="8%"  src="https://cdn.svgporn.com/logos/c.svg"></code>
   <code><img width="8%"  src="https://cdn.svgporn.com/logos/c-sharp.svg"></code>
-
-<p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
