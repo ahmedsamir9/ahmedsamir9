@@ -19,7 +19,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
-- 💼 &nbsp; Working as software engineer [@Fawry](https://fawry.com/)..
+- 💼 &nbsp; Working as software engineer [@Fawry](https://fawry.com/).
+- 
 - 🔭 &nbsp; I’m currently learning Backend (.NET) & Frontend (Angular)
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I graduated from ASU in Egypt Also I'm ITI gradute (9 month profiessional diploma [System Development / Software Architecture])
