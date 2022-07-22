@@ -61,6 +61,7 @@
   <br />
 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
@@ -77,7 +78,8 @@
 <br/>
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedsamir9&row=1&column=6" alt="ahmed" />
+[![Ahmed's github status](https://github-readme-stats.vercel.app/api?username=ahmedsamir9&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/ahmedsamir9?tab=repositories)
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
