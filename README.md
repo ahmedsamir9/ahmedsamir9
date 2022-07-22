@@ -11,7 +11,7 @@
   </a>
 </p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsafwat101)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsamirf11)
 [![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1PDYNZnbsk4bedEPgnoZkTwhEF6xf9TtH/view?usp=sharing)
 
      
@@ -20,11 +20,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Backend (.NET) , Frontend (Angular) and More About Architecting 
+- 🔭 &nbsp; I’m currently learning Backend (.NET) & Frontend (Angular)
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I graduated from ASU in Egypt Also I'm ITI gradute from 9 month profiessional diploma (System Development / Software Architecture)
+- 🎓 &nbsp; I graduated from ASU in Egypt Also I'm ITI gradute (9 month profiessional diploma [System Development / Software Architecture])
 - 💼 &nbsp; Backend developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in Backend.
+- 🌱 &nbsp; Enthusiast in Backend & Clean Coding.
 - ✍️ &nbsp; Watching Anime and Movies as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 - How to reach me: __ahmedsamirf11@gmail.com__
@@ -74,7 +74,6 @@
 ---
 
 
- ![Snake animation](https://github.com/ahmedsamir9/blob/output/github-contribution-grid-snake.svg)
 <br/>
 
 
