@@ -78,7 +78,7 @@
 <br/>
 
 
-[![Ahmed's github status](https://github-readme-stats.vercel.app/api?username=ahmedsamir9&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/ahmedsamir9?tab=repositories)
+[![Ahmed's github status](https://github-readme-status.vercel.app/api?username=ahmedsamir9&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/ahmedsamir9?tab=repositories)
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
